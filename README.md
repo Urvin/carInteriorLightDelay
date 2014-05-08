@@ -33,7 +33,7 @@ Turning light off is always accompanied by "fade out" effect in ~4 seconds;
 * 0805 diode;
 * 2 x 0805 10kOhms resistors;
 * 0805 20kOhms resistor;
-* Can supplied with connectors 3x3.96 и 2x3.96.
+* Can be supplied with connectors 3x3.96 and 2x3.96.
 
 ##Directory tree
 * circuit — device schematic diagram designed in Splan 7;
